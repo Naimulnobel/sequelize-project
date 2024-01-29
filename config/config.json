@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "nobel",
+        "password": "nobel",
+        "database": "nobeldb",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "nobel",
+        "password": "nobel",
+        "database": "nobeldb",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "nobel",
+        "password": "nobel",
+        "database": "nobeldb",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    }
+}
